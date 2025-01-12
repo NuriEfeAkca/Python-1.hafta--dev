@@ -1,0 +1,6 @@
+ad=input("Adınızı giriniz:")
+soyad=input("Soyadınızı giriniz:")
+okulno=input("Okul numaranızı giriniz:")
+ders=input("Ders adını giriniz:")
+ort=input("Ortalamanızı giriniz:")
+print("Okulumuz {} nolu öğrencisi {}{}, bu dönem sonunda {} dersinden {} ortalama başarmıştır".format(okulno,ad,soyad,ders,ort))
